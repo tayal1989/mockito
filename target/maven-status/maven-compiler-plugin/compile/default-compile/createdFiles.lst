@@ -1,0 +1,10 @@
+learning/mockito/test_doubles/dummy/BookService.class
+learning/mockito/test_doubles/stub/Book.class
+learning/mockito/test_doubles/fake/BookRepository.class
+learning/mockito/test_doubles/dummy/EmailService.class
+learning/mockito/test_doubles/dummy/Book.class
+learning/mockito/test_doubles/fake/Book.class
+learning/mockito/test_doubles/stub/BookService.class
+learning/mockito/test_doubles/dummy/BookRepository.class
+learning/mockito/test_doubles/fake/BookService.class
+learning/mockito/test_doubles/stub/BookRepository.class

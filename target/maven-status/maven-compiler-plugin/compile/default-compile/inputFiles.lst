@@ -1,0 +1,10 @@
+/Users/zupee/eclipse-workspace/mockito/src/main/java/learning/mockito/test_doubles/fake/BookRepository.java
+/Users/zupee/eclipse-workspace/mockito/src/main/java/learning/mockito/test_doubles/stub/Book.java
+/Users/zupee/eclipse-workspace/mockito/src/main/java/learning/mockito/test_doubles/stub/BookRepository.java
+/Users/zupee/eclipse-workspace/mockito/src/main/java/learning/mockito/test_doubles/stub/BookService.java
+/Users/zupee/eclipse-workspace/mockito/src/main/java/learning/mockito/test_doubles/fake/BookService.java
+/Users/zupee/eclipse-workspace/mockito/src/main/java/learning/mockito/test_doubles/dummy/BookRepository.java
+/Users/zupee/eclipse-workspace/mockito/src/main/java/learning/mockito/test_doubles/dummy/BookService.java
+/Users/zupee/eclipse-workspace/mockito/src/main/java/learning/mockito/test_doubles/fake/Book.java
+/Users/zupee/eclipse-workspace/mockito/src/main/java/learning/mockito/test_doubles/dummy/EmailService.java
+/Users/zupee/eclipse-workspace/mockito/src/main/java/learning/mockito/test_doubles/dummy/Book.java
