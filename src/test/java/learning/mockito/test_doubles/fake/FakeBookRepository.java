@@ -15,7 +15,6 @@ public class FakeBookRepository implements BookRepository {
     public void save(Book book) {
         mapBookStore.put(book.getBookId(), book);
     }
-
     @Override
     public Collection<Book> findAll() {
         return mapBookStore.values();

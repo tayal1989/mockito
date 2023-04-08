@@ -8,7 +8,6 @@ public class BookService {
     public void addBook(Book book) {
         bookRepository.save(book);
     }
-
     public int findNumberOfBooks() {
         return bookRepository.findAll().size();
     }

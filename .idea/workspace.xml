@@ -5,12 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e59a245-9970-46ac-aef5-1b3830795310" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/learning/mockito/test_doubles/mock/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learning/mockito/test_doubles/mock/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learning/mockito/test_doubles/mock/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/learning/mockito/test_doubles/mock/BookRepositoryMock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/learning/mockito/test_doubles/mock/MockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/1889b53d1dcb7f19881728a28e29fbdee64aef28" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/345874befd864c059050ac6d5b09dc874c502f67" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350199716931a01b8c354b9d2012e15035583608" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57099b16f905ed76b82416ecef24126ce8185a48" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b33697dd170b435a3de70e6a0bce5b114a51c787" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d93cf602934a92d7177974d3676c3135079a52b9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/8/1889b53d1dcb7f19881728a28e29fbdee64aef28" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/4/345874befd864c059050ac6d5b09dc874c502f67" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/5/350199716931a01b8c354b9d2012e15035583608" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/7/57099b16f905ed76b82416ecef24126ce8185a48" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/3/b33697dd170b435a3de70e6a0bce5b114a51c787" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/9/d93cf602934a92d7177974d3676c3135079a52b9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_5_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2ba7ef8d33b5b6b106ef2267a5cde37c9309ef59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6ae39781902edcc7b09998e54d12b5b19db86eac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77b8ae23518d81dd240dca4cbccef0bed3e49d6a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d7e21a984f777d8033afb83659be979a9f1fc2a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfa992f8d61610b5ae3afa8229f95db0b2c4299a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/b/2ba7ef8d33b5b6b106ef2267a5cde37c9309ef59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/a/6ae39781902edcc7b09998e54d12b5b19db86eac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/7/77b8ae23518d81dd240dca4cbccef0bed3e49d6a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/d/7d7e21a984f777d8033afb83659be979a9f1fc2a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/f/dfa992f8d61610b5ae3afa8229f95db0b2c4299a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mockito.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learning/mockito/test_doubles/fake/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learning/mockito/test_doubles/fake/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/learning/mockito/test_doubles/fake/FakeBookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/learning/mockito/test_doubles/fake/FakeBookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/learning/mockito/test_doubles/fake/FakeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/learning/mockito/test_doubles/fake/FakeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,18 +72,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zupee/eclipse-workspace/mockito/src/test/java/learning/mockito/test_doubles/mock&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/zupee/eclipse-workspace/mockito/src/test/java/learning/mockito/test_doubles/mock",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.idesettings.debugger.capture"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="learning.mockito.test_doubles.spy" />
@@ -74,7 +103,7 @@
       <recent name="learning.mockito.test_doubles.dummy" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MockTest.testMock">
+  <component name="RunManager" selected="JUnit.FakeTest">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,14 +126,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="All in mockito (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mockito" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="All in mockito" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="mockito" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -113,6 +134,53 @@
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FakeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learning.mockito.test_doubles.fake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="learning.mockito.test_doubles.fake" />
+      <option name="MAIN_CLASS_NAME" value="learning.mockito.test_doubles.fake.FakeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FakeTest.testFake" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learning.mockito.test_doubles.fake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="learning.mockito.test_doubles.fake" />
+      <option name="MAIN_CLASS_NAME" value="learning.mockito.test_doubles.fake.FakeTest" />
+      <option name="METHOD_NAME" value="testFake" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FakeTest.testFakeWithMockito" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learning.mockito.test_doubles.fake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="learning.mockito.test_doubles.fake" />
+      <option name="MAIN_CLASS_NAME" value="learning.mockito.test_doubles.fake.FakeTest" />
+      <option name="METHOD_NAME" value="testFakeWithMockito" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,45 +216,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MockTest.testSpy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mockito" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learning.mockito.test_doubles.mock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="learning.mockito.test_doubles.mock" />
-      <option name="MAIN_CLASS_NAME" value="learning.mockito.test_doubles.mock.MockTest" />
-      <option name="METHOD_NAME" value="testSpy" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpyTest.testSpy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mockito" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learning.mockito.test_doubles.spy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="learning.mockito.test_doubles.spy" />
-      <option name="MAIN_CLASS_NAME" value="learning.mockito.test_doubles.spy.SpyTest" />
-      <option name="METHOD_NAME" value="testSpy" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FakeTest" />
+        <item itemvalue="JUnit.FakeTest.testFakeWithMockito" />
+        <item itemvalue="JUnit.FakeTest.testFake" />
         <item itemvalue="JUnit.MockTest.testMock" />
         <item itemvalue="JUnit.MockTest" />
-        <item itemvalue="JUnit.MockTest.testSpy" />
-        <item itemvalue="JUnit.SpyTest.testSpy" />
-        <item itemvalue="JUnit.All in mockito (2)" />
       </list>
     </recent_temporary>
   </component>

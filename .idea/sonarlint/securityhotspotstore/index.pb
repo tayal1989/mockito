@@ -1,10 +1,4 @@
 
-j
-:src/main/java/learning/mockito/test_doubles/fake/Book.java,7/7/77b8ae23518d81dd240dca4cbccef0bed3e49d6a
-q
-Asrc/main/java/learning/mockito/test_doubles/fake/BookService.java,7/d/7d7e21a984f777d8033afb83659be979a9f1fc2a
-t
-Dsrc/main/java/learning/mockito/test_doubles/fake/BookRepository.java,2/b/2ba7ef8d33b5b6b106ef2267a5cde37c9309ef59
 s
 Csrc/main/java/learning/mockito/test_doubles/dummy/EmailService.java,a/d/ada29df72d24238167fda15274cfeaf8c9289a69
 r
@@ -15,8 +9,6 @@ t
 Dsrc/main/java/learning/mockito/test_doubles/stub/BookRepository.java,9/7/972ece0a40299233df7dc6021d2b93503057a3b7
 q
 Asrc/main/java/learning/mockito/test_doubles/stub/BookService.java,5/b/5b44a0c7e1632aa4e68ee63244390f97ac08f180
-x
-Hsrc/test/java/learning/mockito/test_doubles/fake/FakeBookRepository.java,6/a/6ae39781902edcc7b09998e54d12b5b19db86eac
 p
 @src/test/java/learning/mockito/test_doubles/dummy/DummyTest.java,3/e/3e04257b7bb389b1ffb33f9fb20172e3d1d3484e
 z
@@ -27,11 +19,21 @@ x
 Hsrc/test/java/learning/mockito/test_doubles/stub/StubBookRepository.java,0/1/012a3d39b06b391e1db1bbd86a1a4e8f9655d621
 n
 >src/test/java/learning/mockito/test_doubles/stub/StubTest.java,c/f/cf03bd466a1306136007cbcb323617552c32d3d0
-n
->src/test/java/learning/mockito/test_doubles/fake/FakeTest.java,d/f/dfa992f8d61610b5ae3afa8229f95db0b2c4299a
 p
 @src/main/java/learning/mockito/test_doubles/spy/BookService.java,2/0/205da38d41c3354147e56eb129d6611a7bd68c8e
 s
 Csrc/main/java/learning/mockito/test_doubles/spy/BookRepository.java,4/9/49b3b768b71cc760acef511753e498cb30915a0b
 i
 9src/main/java/learning/mockito/test_doubles/spy/Book.java,5/8/58a0b37a18d39866a707b1ed785bb3af9877bb09
+l
+<src/test/java/learning/mockito/test_doubles/spy/SpyTest.java,5/7/57099b16f905ed76b82416ecef24126ce8185a48
+v
+Fsrc/test/java/learning/mockito/test_doubles/spy/BookRepositorySpy.java,3/4/345874befd864c059050ac6d5b09dc874c502f67
+t
+Dsrc/main/java/learning/mockito/test_doubles/mock/BookRepository.java,b/3/b33697dd170b435a3de70e6a0bce5b114a51c787
+x
+Hsrc/test/java/learning/mockito/test_doubles/mock/BookRepositoryMock.java,1/8/1889b53d1dcb7f19881728a28e29fbdee64aef28
+q
+Asrc/main/java/learning/mockito/test_doubles/mock/BookService.java,3/5/350199716931a01b8c354b9d2012e15035583608
+n
+>src/test/java/learning/mockito/test_doubles/mock/MockTest.java,d/9/d93cf602934a92d7177974d3676c3135079a52b9
